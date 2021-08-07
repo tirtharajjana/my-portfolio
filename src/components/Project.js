@@ -14,7 +14,7 @@ const Project = () => {
             place,
             description,
             projectType,
-            links,
+            link,
             tags
         }`
             )
